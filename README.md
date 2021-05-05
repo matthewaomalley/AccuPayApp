@@ -1,6 +1,6 @@
 Name:       Matthew O'Malley
-Project:    Final Project - AccuPay
-email:      matthewaomalley@lewisu.edu
+Program:    AccuPay Application
+email:      mattomalleygo@gmail.com
 
 Instructions: unzip contents and compile.
 
